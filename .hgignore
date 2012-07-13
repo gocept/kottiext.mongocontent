@@ -1,0 +1,7 @@
+syntax: glob
+
+Kotti.db
+*~
+*.pyc
+*.egg-info
+.*.swp

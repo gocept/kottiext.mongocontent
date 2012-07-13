@@ -1,0 +1,6 @@
+* rename package to kotti_mongo
+* navigation ([a]navigation visibility on parent?)
+* complete api (copy, paste, move, delete)
+* subnodes ([a]parent as list?)
+* make it easy to create new contenttypes (factory?)
+* move acl-stuff and settings to mongodb
